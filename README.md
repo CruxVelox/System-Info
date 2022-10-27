@@ -15,4 +15,5 @@ Then it will send a notification that lasts 3 seconds which will indicate that t
 ## Exiting from the program
 Simply click Files > Exit.
 
-<i>System Specs 0.1</i>
+<i>System Specs 0.2</i>
+See the wiki for the changelog
